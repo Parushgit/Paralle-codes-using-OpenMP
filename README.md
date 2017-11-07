@@ -1,0 +1,1 @@
+# Paralle-codes-using-OpenMP
